@@ -1,1 +1,7 @@
-{}
+{
+"scripts":
+ {
+    "build": "npm i && npm build",
+    "start": "npm start"
+  }
+}
